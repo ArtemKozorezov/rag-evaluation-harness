@@ -1,0 +1,32 @@
+# Environment & Secret Keys
+.env
+.env.*
+!.env.example
+
+# Python Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Byte-compiled / Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing & Framework Caches
+.pytest_cache/
+
+# Local Vector Stores & Databases
+chroma_db/
+*.sqlite3
+
+# Logs & Temporary Files
+*.log
+*.tmp
+
+# IDEs & System Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

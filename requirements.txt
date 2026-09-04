@@ -1,0 +1,13 @@
+# Core Testing Framework
+pytest>=8.0.0
+
+# Deep Learning & Transformers Core
+torch>=2.1.0
+transformers>=4.44.0
+accelerate>=0.33.0
+sentence-transformers>=3.0.0
+
+# Vector Store & RAG Components
+langchain-chroma>=0.1.4
+langchain-huggingface>=0.0.3
+langchain-text-splitters>=0.2.0
