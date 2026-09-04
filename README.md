@@ -1,6 +1,5 @@
 # 🎯 AI QA Portfolio Case Study: RAG Evaluation & Red-Teaming Framework
 
-[![RAG Evaluation Suite](https://github.com/artem-kozorezov/rag-evaluation-harness/actions/workflows/run_eval.yml/badge.svg)](https://github.com/artem-kozorezov/rag-evaluation-harness/actions/workflows/run_eval.yml)
 [![Role: AI Quality Engineer](https://img.shields.io/badge/Role-AI%20Quality%20Engineer-blue.svg)](#-author--qa-ownership)
 [![Domain: LLM Evaluation](https://img.shields.io/badge/Domain-LLM%20%26%20RAG%20Evaluation-orange.svg)](#-end-to-end-qa-lifecycle)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
@@ -116,7 +115,7 @@ flowchart TB
 ```
 
 ---
-## 🎯 Risk-Metric Mapping Matrix *OR* Risk-Based Test Strategy & Metrics Coverage ?
+## 🎯 Risk-Metric Mapping Matrix
 
 The evaluation suite addresses **5 core RAG failure modes**:
 
